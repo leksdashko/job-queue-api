@@ -95,9 +95,9 @@ This project is a Laravel-based API that accepts a POST request to the `/submit`
         "message": "Failed to dispatch job. Please try again later."
     }
     ```
-		
+
 ### Running Tests
- **Run the tests:**
+- **Run the tests:**
     ```bash
     php artisan test
     ```
